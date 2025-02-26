@@ -38,9 +38,9 @@ git clone https://github.com/IgorTecnologia/DSLearn.git
 
 Download these files and import them into your Postman to use the ready-made HTTP methods along with the already configured environment variables, to perform the requests/responses
 
-[Download Collection](https://github.com/IgorTecnologia/DSLearn/blob/docs-postman/DSLearn.collection.json)
+[Download Collection](https://github.com/Igorgcf/DSLearn/blob/docs-postman/DSLearn.collection.json)
 
-[Download Environment Variables](https://github.com/IgorTecnologia/DSLearn/blob/docs-postman/dslearn-local.environment.json)
+[Download Environment Variables](https://github.com/Igorgcf/DSLearn/blob/docs-postman/dslearn-local.environment.json)
 
 ## API Endpoints
 The API provides the following endpoints:
